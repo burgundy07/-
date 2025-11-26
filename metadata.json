@@ -1,0 +1,5 @@
+{
+  "name": "Natural Reader & Translator",
+  "description": "A smart reading assistant that splits long text into natural segments, translates them, and reads them aloud using high-quality AI voices.",
+  "requestFramePermissions": []
+}
